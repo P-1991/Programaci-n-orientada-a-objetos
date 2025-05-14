@@ -20,9 +20,9 @@ double areaTriangulo(double base, double altura) {
 
 int main() {
     // Ejemplo de uso
-    double radio = 5.0;
-    double lado = 4.0;
-    double base = 6.0, altura = 3.0;
+    double radio = 3.0;
+    double lado = 6.0;
+    double base = 8.0, altura = 4.0;
 
     cout << "Área del círculo: " << areaCirculo(radio) << endl;
     cout << "Área del cuadrado: " << areaCuadrado(lado) << endl;
